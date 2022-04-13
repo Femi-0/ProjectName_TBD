@@ -1,2 +1,2 @@
-# ProjectName_TBD
-# *Smart Store Management 
+# Project 1
+# Smart Store Management System

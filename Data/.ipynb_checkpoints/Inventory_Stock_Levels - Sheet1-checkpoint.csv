@@ -1,0 +1,11 @@
+Item_id,item_description,item_price(last_purchase_price),quantity_in_stock,set_minimum,last_restocking_date
+1,Bacon 500 grams,5.9,50,5,August 2019
+2,Butter 454 grams,4.2,120,20,August 2019
+3,Beef stewing cuts per KG,14.52,15,5,August 2019
+4,Beef top sirloin cuts per KG,12.11,20,5,August 2019
+5,Eggs per dozen,3.14,36,6,August 2019
+6,Whole chicken per KG,4.91,120,24,August 2019
+7,Chicken breasts per KG,11.45,500,120,August 2019
+8,Chicken thigh per KG,8.05,500,120,August 2019
+9,Tomatoes per KG,3.29,500,200,August 2019
+10,Peppers per KG,5.76,500,200,August 2019

@@ -2,24 +2,28 @@
 ## Smart Store Management System
 ## Maximizing revenue through automated inventory management
 
-#Who
-### We were considering small scale retailers. thinking Rural communities with a general store.
 
-#what
-### A visual guide to inventory management. 
-### The goal is to have this program also complete the inventory restock Automatically.
+##Who
+We were considering small scale retailers. thinking Rural communities with a general store.
 
-#why?
-### Huge Etailer's and retail giants continue to grow. we want to bring some help to the 
-### retail industry on the edge.
+##what
+ A visual guide to inventory management. 
+ The goal is to have this program also complete the inventory restock Automatically.
 
-#How?
-### Using their Sales and inventory database combined with Monte carlo simulations and revenue forecasting.
+##why?
+Huge Etailer's and retail giants continue to grow. we want to bring some help to the 
+retail industry on the edge.
 
-## Phaze 2
+##How?
+ Using their Sales and inventory database combined with Monte carlo simulations and revenue forecasting.
+
+##Phaze 2
+
 ### adding smart contracts and look into order automation
 
-## Phaze 3
+
+##Phaze 3
+
 ### AI vision cameras
 ### Membership for users
 ### frictionless payment system
